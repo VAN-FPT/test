@@ -1,0 +1,74 @@
+.card1 {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: 10px 10px 10px 120px;
+    text-align: center;
+    font-family: arial;
+    position: absolute;
+    z-index: 2;
+    top: 113px;
+    left: 465px;
+  }
+  
+  .price1 {
+    color: rgb(6, 1, 1);
+    font-size: 22px;
+    
+  }
+  
+  .card1 button {
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+  }
+  
+  .card1 button:hover {
+    opacity: 0.7;
+  }
+  .card1 img:hover{
+      box-shadow: 1px 2px 10px #888;
+      transform: rotate(180deg);
+  }
+  .card2 {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: 10px 10px 10px 120px;
+    text-align: center;
+    font-family: arial;
+    position: absolute;
+    z-index: 3;
+    top: 113px;
+    left: 915px;
+  }
+  
+  .price2 {
+    color: rgb(6, 1, 1);
+    font-size: 22px;
+    
+  }
+  
+  .card2 button {
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+  }
+  
+  .card2 button:hover {
+    opacity: 0.7;
+  }
+  .card2 img:hover{
+      box-shadow: 1px 2px 10px #888;
+      transform: rotate(180deg);
+  }
